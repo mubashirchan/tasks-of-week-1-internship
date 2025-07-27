@@ -1,0 +1,10 @@
+# Print personal info
+name = "mubashir chan"
+hobby = "Photography"
+age = 20
+reason = "I want to learn Python to build projects and improve my programming skills."
+
+print("My Name:", name)
+print("My Hobby:", hobby)
+print("My Age:", age)
+print("Why I want to learn Python:", reason)
